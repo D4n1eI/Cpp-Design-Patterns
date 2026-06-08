@@ -54,6 +54,8 @@ This course is split into several sections covering modern implementations of de
 
 ## Repository Goals
 
-This repository contains my notes, exercises, and implementations completed while following the course.
+Course should be the continuation of this other course, covering the basics of modern C++:
+[**Beginning C++ Programming - From Beginner to Beyond**](https://www.udemy.com/course/beginning-c-plus-plus-programming/)  
 
-The solutions and implementations are written by me as part of the learning process.
+It's also on published here on Github [**Beginning C++ Programming - From Beginner to Beyond**](https://github.com/D4n1eI/Cpp-Course)
+
