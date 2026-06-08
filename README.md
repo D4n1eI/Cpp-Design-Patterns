@@ -10,7 +10,7 @@
 
 ## References
 
-Course taken from Udemy: [**Design Patterns in Modern C++**](www.udemy.com/course/patterns-cplusplus/).
+Course taken from Udemy [**Design Patterns in Modern C++**](https://www.udemy.com/course/patterns-cplusplus/)
 
 
 ## Course Content
