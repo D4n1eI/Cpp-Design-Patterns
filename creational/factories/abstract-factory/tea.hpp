@@ -10,4 +10,4 @@ struct Tea : public HotDrink
         std::cout << "Take a tea bag, boil water, pour " << volume << " ml and "
                   << "add some lemon\n";
     }
-};
+}; 
