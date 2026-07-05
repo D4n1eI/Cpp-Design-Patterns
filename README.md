@@ -1,12 +1,12 @@
 # Design Patterns in Modern C++
-
-![Udemy](https://img.shields.io/badge/Udemy-Design%20Patterns%20in%20Modern%20C%2B%2B-A435F0?logo=udemy&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Udemy](https://img.shields.io/badge/Udemy-C%2FC%2B%2B%20Pointers%20%26%20Applications-A435F0?logo=udemy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Language](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus)
 
 ## Certificate
 
-*To be added upon completion.*
+[Udemy Certificate](certificate.pdf)
+
 
 ## References
 
